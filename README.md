@@ -1,4 +1,4 @@
 # maxquant
 seq coverage calculator
 
-Main file is under toy_data/ApplR
+Main file is under toy_data/App.R
