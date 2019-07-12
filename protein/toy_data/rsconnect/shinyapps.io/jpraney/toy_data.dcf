@@ -1,0 +1,12 @@
+name: toy_data
+title: toy_data
+username:
+account: jpraney
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1026023
+bundleId: 2223142
+url: https://jpraney.shinyapps.io/toy_data/
+when: 1562878420.21255
+asMultiple: FALSE
+asStatic: FALSE
